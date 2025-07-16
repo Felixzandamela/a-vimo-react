@@ -1603,7 +1603,7 @@ textarea.valid ~ label {
 
 .wrap-radio-card{
   width:50%;
-  min-width: 50%
+  min-width: 50%;
   background: red;
   padding: 10px;
   max-height: max-content;
