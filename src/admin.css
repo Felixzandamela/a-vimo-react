@@ -114,6 +114,9 @@
 .a_aside_items .a_btn i:nth-child(1){font-size: 1.3rem;}
 .a_aside_items .a_btn p{
   margin-left: 20px;
+}
+
+.a_aside_items .a_btn p,.a_aside_logo_text{
   line-break: anywhere;
   overflow:hidden;
   display:-webkit-box;
