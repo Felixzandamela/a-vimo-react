@@ -1871,7 +1871,7 @@ textarea.valid ~ label {
   margin: 6px;
   font-size: 2rem;
 }
-.reviews_stars{color:var(--secondary-color);!important} 
+.reviews_stars{color:var(--secondary-color);} 
 
 .min_loader{
   display:flex;
