@@ -1650,7 +1650,7 @@ textarea.valid ~ label {
 .inputs[type="checkbox"] {
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none;.          
+  appearance: none;         
   margin: auto;
   outline: none;
   height: 2.6em;
