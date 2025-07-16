@@ -134,7 +134,7 @@ const Layout = ({props, mode, onChanges}) =>{
               <div className="flex_c_c a_logo">
                 <img height="40px" width="40px" src="https://i.imgur.com/3znKRGu.png" alt="Logo" />
               </div>
-              <div className="a_aside_logo_text">Localhost</div>
+              <div className="a_aside_logo_text">{document.location.hostname}</div>
             </Link>
           </div>
           <div className="a_aside_scroll">
